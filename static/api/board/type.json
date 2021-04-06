@@ -1,0 +1,28 @@
+{
+    "data" : [
+        {
+            "tSeq": 1,
+            "icon": "/image/icon/category_all.png",
+            "text": "전체보기",
+            "type": "ALL"
+        },
+        {
+            "tSeq": 2,
+            "icon": "/image/icon/category_question.png",
+            "text": "질문하기",
+            "type": "QUESTION"
+        },
+        {
+            "tSeq": 3,
+            "icon": "/image/icon/category_info.png",
+            "text": "정보공유",
+            "type": "SHARE"
+        },
+        {
+            "tSeq": 4,
+            "icon": "/image/icon/category_talk.png",
+            "text": "멤버모집",
+            "type": "FREE"
+        }
+    ]
+}

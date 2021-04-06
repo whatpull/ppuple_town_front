@@ -1,0 +1,166 @@
+{
+    "data" : [
+        {
+            "bSeq": 1,
+            "regDate": "2020-09-10 09:30",
+            "type": {
+                "tSeq": 2,
+                "icon": "/image/icon/category_question.png",
+                "text": "질문하기",
+                "type": "QUESTION"
+            },
+            "category": {
+                "cSeq": 1,
+                "text": "취업&이직",
+                "category": "EMPLOYMENT"
+            },
+            "title": "후기입니다. 혼자 공부했구요.",
+            "summary": "후기입니다. 혼자 공부했구요,",
+            "comment": "99+"
+        },
+        {
+            "bSeq": 2,
+            "regDate": "2020-09-10 10:30",
+            "type": {
+                "tSeq": 3,
+                "icon": "/image/icon/category_info.png",
+                "text": "정보공유",
+                "type": "SHARE"
+            },
+            "category": {
+                "cSeq": 1,
+                "text": "취업&이직",
+                "category": "EMPLOYMENT"
+            },
+            "title": "올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "summary": "후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "comment": "99+"
+        },
+        {
+            "bSeq": 3,
+            "regDate": "2020-09-10 12:30",
+            "type": {
+                "tSeq": 4,
+                "icon": "/image/icon/category_talk.png",
+                "text": "멤버모집",
+                "type": "FREE"
+            },
+            "category": {
+                "cSeq": 1,
+                "text": "취업&이직",
+                "category": "EMPLOYMENT"
+            },
+            "title": "산악동아리 모집",
+            "summary": "후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "comment": "99+"
+        },
+        {
+            "bSeq": 4,
+            "regDate": "2020-09-10 09:30",
+            "type": {
+                "tSeq": 2,
+                "icon": "/image/icon/category_question.png",
+                "text": "질문하기",
+                "type": "QUESTION"
+            },
+            "category": {
+                "cSeq": 2,
+                "text": "창업",
+                "category": "FOUNDED"
+            },
+            "title": "후기입니다. 혼자 공부했구요.",
+            "summary": "후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "comment": "99+"
+        },
+        {
+            "bSeq": 5,
+            "regDate": "2020-09-10 10:30",
+            "type": {
+                "tSeq": 3,
+                "icon": "/image/icon/category_info.png",
+                "text": "정보공유",
+                "type": "SHARE"
+            },
+            "category": {
+                "cSeq": 2,
+                "text": "창업",
+                "category": "FOUNDED"
+            },
+            "title": "올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "summary": "후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "comment": "99+"
+        },
+        {
+            "bSeq": 6,
+            "regDate": "2020-09-10 12:30",
+            "type": {
+                "tSeq": 4,
+                "icon": "/image/icon/category_talk.png",
+                "text": "멤버모집",
+                "type": "FREE"
+            },
+            "category": {
+                "cSeq": 1,
+                "text": "취업&이직",
+                "category": "EMPLOYMENT"
+            },
+            "title": "산악동아리 모집",
+            "summary": "후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "comment": "1"
+        },
+        {
+            "bSeq": 7,
+            "regDate": "2020-09-10 09:30",
+            "type": {
+                "tSeq": 2,
+                "icon": "/image/icon/category_question.png",
+                "text": "질문하기",
+                "type": "QUESTION"
+            },
+            "category": {
+                "cSeq": 2,
+                "text": "창업",
+                "category": "FOUNDED"
+            },
+            "title": "후기입니다. 혼자 공부했구요.",
+            "summary": "후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "comment": "99+"
+        },
+        {
+            "bSeq": 8,
+            "regDate": "2020-09-10 10:30",
+            "type": {
+                "tSeq": 3,
+                "icon": "/image/icon/category_info.png",
+                "text": "정보공유",
+                "type": "SHARE"
+            },
+            "category": {
+                "cSeq": 1,
+                "text": "취업&이직",
+                "category": "EMPLOYMENT"
+            },
+            "title": "올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "summary": "후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "comment": "99+"
+        },
+        {
+            "bSeq": 9,
+            "regDate": "2020-09-10 12:30",
+            "type": {
+                "tSeq": 4,
+                "icon": "/image/icon/category_talk.png",
+                "text": "멤버모집",
+                "type": "FREE"
+            },
+            "category": {
+                "cSeq": 2,
+                "text": "창업",
+                "category": "FOUNDED"
+            },
+            "title": "산악동아리 모집",
+            "summary": "후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라. 후기입니다. 혼자 공부했구요, 올해 처음어쩌전해본 거라 걱정 많이했는데 다행히 원아라.",
+            "comment": "99+"
+        }
+    ]
+}

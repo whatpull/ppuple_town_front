@@ -1,0 +1,14 @@
+{
+    "data" : [
+        {
+            "cSeq": 1,
+            "text": "취업&이직",
+            "category": "EMPLOYMENT"
+        },
+        {
+            "cSeq": 2,
+            "text": "창업",
+            "category": "FOUNDED"
+        }
+    ]
+}
